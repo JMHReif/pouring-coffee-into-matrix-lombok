@@ -38,9 +38,6 @@ Code in the following repositories show additional levels of entities mapped and
 
 PDF versions of accompanying presentations are published to SpeakerDeck.
 
-* https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-6e442888-49ea-4f76-8e26-3f50f8b1f532[Scale by the Bay, Oct 2021^]
-* https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-5c9a8a56-214f-408c-b4f8-9ec08747b28a[STLFullStack meetup, Aug 2021^]
-
 == Resources
 * https://dev.neo4j.com/aura[Neo4j Aura console^]
 * https://neo4j.com/developer/aura-cloud-dbaas/[Neo4j AuraDB developer guides^]
