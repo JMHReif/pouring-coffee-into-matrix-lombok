@@ -20,7 +20,7 @@ The first 3 lines in the application.properties are for URI, username, and passw
 
 == Data set
 
-Data is maintained and pulled from a https://raw.githubusercontent.com/marchof/java-almanac/[Github repository^].
+Data is maintained and pulled from a https://github.com/marchof/java-almanac/[Github repository^].
 It contains all published Java versions and compares the changes between any pair of versions in a diff.
 Each diff contains the lists of individual changes (packages, methods, etc) between each version.
 
