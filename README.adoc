@@ -40,6 +40,7 @@ PDF versions of accompanying presentations are published to SpeakerDeck.
 
 * https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-java-applications-on-neo4j[ConFoo 2022^]
 * https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-97efb228-0699-4c74-a63f-d5cdee824234[CodeMotion 2021^]
+* https://speakerdeck.com/jmhreif/cliff-notes-what-java-developers-need-to-know-about-graph-databases[Ingolstadt JUG 2022^]
 
 == Resources
 * https://dev.neo4j.com/aura[Neo4j Aura console^]
