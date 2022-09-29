@@ -38,12 +38,13 @@ Code in the following repositories show additional levels of entities mapped and
 
 PDF versions of accompanying presentations are published to SpeakerDeck.
 
+* https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-98c7de30-67ec-43b8-be28-f4ec22060390[JConf.dev 2022^]
 * https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-1bfb03e8-f186-41e6-8359-1db4755e7ed6[GraphConnect 2022^]
 * https://speakerdeck.com/jmhreif/cliff-notes-what-java-developers-need-to-know-about-graph-databases[Ingolstadt JUG 2022^]
 * https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-java-applications-on-neo4j[ConFoo 2022^]
 * https://speakerdeck.com/jmhreif/pouring-coffee-into-the-matrix-building-java-applications-on-neo4j-97efb228-0699-4c74-a63f-d5cdee824234[CodeMotion 2021^]
 
 == Resources
-* https://dev.neo4j.com/aura[Neo4j Aura^]
-* https://bit.ly/aura-docs[Neo4j Aura documentation^]
-* https://bit.ly/sdn-docs[Spring Data Neo4j documentation^]
+* https://dev.neo4j.com/aura-java[Neo4j Aura^]
+* https://dev.neo4j.com/aura-docs[Neo4j Aura documentation^]
+* https://dev.neo4j.com/sdn-docs[Spring Data Neo4j documentation^]
