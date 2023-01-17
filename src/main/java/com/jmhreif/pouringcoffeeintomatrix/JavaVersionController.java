@@ -12,5 +12,8 @@ public class JavaVersionController {
     private final JavaVersionRepo javaVersionRepo;
 
     @GetMapping
-    Iterable<JavaVersionProjection> findAllJavaVersions() { return javaVersionRepo.findAllJavaVersions(); }
+    Iterable<JavaVersion> findAllJavaVersions() { return javaVersionRepo.findAll(); }
+
+    @GetMapping("/custom")
+    Iterable<JavaVersion> findAllCustom() { return javaVersionRepo.findAllCustom(); }
 }
