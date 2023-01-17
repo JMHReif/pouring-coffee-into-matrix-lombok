@@ -10,7 +10,6 @@ import java.time.LocalDate;
 
 @Node
 @Data
-@RequiredArgsConstructor
 public class JavaVersion {
     @Id
     @Property("version")
